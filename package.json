@@ -1,0 +1,19 @@
+{
+  "name": "classified",
+  "version": "1.0.0",
+  "description": "Text adaptations of Mario 64: CLASSIFIED",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonGwee/classified.git"
+  },
+  "author": "KhromaCodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonGwee/classified/issues"
+  },
+  "homepage": "https://github.com/BrandonGwee/classified#readme"
+}
